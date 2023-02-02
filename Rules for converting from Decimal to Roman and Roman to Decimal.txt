@@ -1,0 +1,61 @@
+Rules for Roman Numerals
+1    V     X      L     C    D     M
+1    5     10     50   100  500   1000
+
+Repition : Repeted symbol => add value,
+
+a) MAx repeat = 3
+b) No repeat for V, J and D
+
+(MMM)/(MMXiV)
+Number one (I) can be subtracted from 5(V) and 10(X)
+
+X can be subtracted from L,C and M only (MlXVI)
+
+lets do some conversion
+
+2019
+ 2000
+MM
+
+next digit is 0(doesnt mean anything) ignore once
+
+next digit 1(means 10 actually ) -->
+MM
+X
+next digit is 9 can be write as IX(10 - 1)
+MMXiX
+
+1776
+700 --> DCC(500  + 100 + 100)
+until MDCC
+
+next 70 --> LXX(50 +10 + 10)
+until now MDCCLXX
+next is  6 --> Vi(5 + 1)
+the rightmost digit
+so now number is MDCCLXXVi
+
+largest number that can be represents as per rules 3999 as MMMCmXCIX
+
+------------------------------------------------------
+to convert from Ronam Numerals
+we start from rightmost
+
+as MMXiV
+IV ----> 5 1--ask ques can we combine(Yes ) 5-1 =4 --> 
+next XIV --can we combine now as 10 ca not be used in the ones digit --> so we stop ---> so first digirtis formed as 4
+
+next X--> can we combine X(10) with M --> no -> so number is until now 14
+
+in place of hundred --> I write as 0 as there is no hundred digit and continue to look for combine as MM which is 2000 so in place of add as 2014
+
+I take another example to test the rules
+MLXVI --> VI (6 + 1=6)    so 6 as one's digit 
+
+X can not combine with 6 as X is in 10's place so leave as it is 
+
+next L(50) can combine with X (10) 50 + 10 =60 --> 66
+again M can not be combined with 66 as it is in 1000 so there is nothing in hundrd's place so we leavas 0--> M(1000) +  066--> 1066
+
+

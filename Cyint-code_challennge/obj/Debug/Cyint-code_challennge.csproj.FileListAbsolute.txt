@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\bin\Debug\Cyint-code_challennge.exe.config
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\bin\Debug\Cyint-code_challennge.exe
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\bin\Debug\Cyint-code_challennge.pdb
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\obj\Debug\Cyint-code_challennge.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\obj\Debug\Cyint-code_challennge.exe
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\obj\Debug\Cyint-code_challennge.pdb
+C:\Users\DELL\source\repos\Cyint-code_challennge\Cyint-code_challennge\obj\Debug\Cyint-code_challennge.csprojAssemblyReference.cache

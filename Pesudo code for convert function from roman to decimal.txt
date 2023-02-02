@@ -1,0 +1,47 @@
+is for all positive numbers-check
+ask --what are roman numerals
+
+I --> 1
+
+V  --> 5
+
+X --->10
+
+L ---> 50
+
+C--> 100
+
+
+D --> 500
+
+M--> 1000
+
+2 ---> II
+
+
+4    ---> IV 
+
+400 -  CD (D - X/(500 - 100))
+
+------------------------------
+
+
+248 ---CCXLVII
+
+
+public int romantoint(string s) {
+ 
+Dictionary<char, Integer> map = new Dictionary();
+map.Add('I', 1);
+map.Add('V', 1);
+map.Add('X', 1);
+map.Add('L', 1);
+map.Add('C', 1);
+map.Add('D', 1);
+map.Add('M', 1);
+
+
+
+
+
+}
